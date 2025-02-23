@@ -27,7 +27,7 @@ An AI-driven chatbot designed to assist users with healthcare-related queries us
 ## 🚀 Installation & Setup  
 
 ### **1️⃣ Clone the Repository**  
-    git clone https://github.com/yourusername/healthcare-chatbot.git
+    git clone https://github.com/imvarun18/AI-Health-chatbot.git
     cd healthcare-chatbot
 ### **2️⃣ Install Dependencies**
     pip install -r requirements.txt
