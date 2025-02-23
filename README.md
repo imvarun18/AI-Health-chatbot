@@ -34,6 +34,13 @@ An AI-driven chatbot designed to assist users with healthcare-related queries us
 ### **3️⃣ Run the Application**
     streamlit run app.py
 
+---
+
+## User Interface using streamlit
+![Screenshot 2025-02-23 2359251](https://github.com/user-attachments/assets/f29afb3e-060d-4ee3-a13d-6213c453b6ef)
+
+---
+
 ## 📜 How It Works
 1️.  **User Input** – The user types a health-related question in the chatbot.    
 2️.  **Preprocessing** – The input is tokenized and cleaned using NLTK.   
